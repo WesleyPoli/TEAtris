@@ -11,10 +11,10 @@ Este projeto foi desenvolvido pelos alunos da Turma 1, Bancada B1, da Escola Pol
 
 | Integrante                          | Nº USP     |
 |------------------------------------|------------|
+| 💡 Claudio Lucio Cunha da Silva    | 14565003   |
+| 🔧 Daniel Henrique Braga da Silva  | 14565431   |
 | 🎯 Wesley Oliveira Cunha           | 14612367   | 
-| 💡 Claudio Lucio Cunha da Silva    | 14565003   | 
-| 🔧 Daniel Henrique Braga da Silva  | 14565431   | 
-
+ 
 > Juntos, unimos engenharia, criatividade e propósito social para transformar LEDs em aprendizado. ✨
 
 ---
