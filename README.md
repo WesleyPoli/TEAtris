@@ -1,4 +1,4 @@
-![🎮 TEAtris](./assets/logo.jpeg)
+<img src="./assets/logo.jpeg" alt="🎮 TEAtris" width="300"/>
 
 **TEAtris** é um jogo educacional inspirado no Tetris, desenvolvido para rodar em **FPGA** com o uso de **duas matrizes de LEDs 8x8**. 
 
@@ -53,10 +53,12 @@ O jogo apresenta uma peça na **matriz superior**. O jogador deve pressionar um 
 ## 📷 Ilustrações
 
 ### Esboço do Protótipo:
-![Esboço](./assets/PrototipoComIdentificacao.jpeg)
+<img src="./assets/PrototipoComIdentificacao.jpeg" alt="Esboço do Protótipo" width="400"/>
+
 
 ### Montagem final para apresentação:
-![Montagem](./assets/MontagemFinal.jfif)
+<img src="./assets/MontagemFinal.jfif" alt="Montagem Final" width="400"/>
+
 
 ---
 
@@ -72,7 +74,5 @@ O jogo apresenta uma peça na **matriz superior**. O jogador deve pressionar um 
 Assista à apresentação oficial do projeto:
 [🔗 Link para o vídeo explicativo](https://www.youtube.com/watch?v=vvYHG5I3Ibs&ab_channel=cl_audio)
 
----
 
-## 📂 Organização do repositório
 
